@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mikemaer1990
-- 👀 I’m interested in all aspects of computer programming.
-- 🌱 I’m currently improving my skills in CSS after creating a python web app.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Michael Maertens
+- 👀 I’m interested in all aspects of computer programming, but at the moment my focus is on trying to contribute to open source projects.
+- 🌱 I’m currently improving my skills in Javascript after creating a python web app.
+- 💞️ I’m looking to collaborate on anything!
+- 📫 Contact me @ michaelmaertens@protonmail.com
