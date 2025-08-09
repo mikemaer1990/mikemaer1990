@@ -6,11 +6,12 @@ Right now, I’m building **MovieReleaseTracker** 🎬 — an app to follow upco
 ---
 
 ## 🎥 MovieReleaseTracker
-<div style="background-color:#121212; padding:15px; border-radius:12px; display:inline-block;">
+<p align="center">
   <a href="https://moviereleasetrackerv2.onrender.com/">
     <img src="./screenshot.gif" alt="MovieReleaseTracker Demo" width="600" style="border-radius: 10px;" />
   </a>
-</div>
+</p>
+
 
 
 
