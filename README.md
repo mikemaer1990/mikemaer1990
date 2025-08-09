@@ -1,37 +1,38 @@
 # Hey there 👋
 
-I’m Mike — a hobbyist developer who loves tinkering with code, learning new tech, and building fun projects in my spare time.  
-Right now, I’m deep into a project called **MovieReleaseTracker** 🎬 — an app that helps you follow upcoming movies and get notified when they release in theaters or streaming.
+I’m Mike — a hobbyist developer who codes for fun and loves learning new things.  
+Right now, I’m building **MovieReleaseTracker** 🎬 — an app to follow upcoming movies and get notified when they hit theaters or streaming.
 
 ---
 
-## 🚀 Current Project
-### 🎥 MovieReleaseTracker
-- **Stack:** Node.js, Express, EJS, Vanilla CSS, Airtable, TMDB API, Brevo (for email notifications)
-- **What it does:**  
-  - Search movies from TMDB  
-  - Follow/unfollow movies  
-  - Get notified when they’re released  
+## 🎥 MovieReleaseTracker
+[![MovieReleaseTracker Screenshot](./screenshot.png)](https://moviereleasetrackerv2.onrender.com/)
+
+- **Stack:** Node.js, Express, EJS, Vanilla CSS, Airtable, TMDB API, Brevo  
+- **Features:**
+  - Search movies from TMDB
+  - Follow/unfollow movies
+  - Get notified when they’re released
   - See streaming and theater release dates  
+- **UI Highlights:**  
+  - Dark neo-noir design with gradients and shadows  
+  - Conditional rendering for missing data in EJS  
 
 ---
 
-## 🛠️ Tech I’m Playing With
+## 📌 Pinned Repo
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mikemaer1990&repo=MovieReleaseTrackerV2&theme=radical)](https://github.com/mikemaer1990/MovieReleaseTrackerV2)
+
+---
+
+## 🛠️ Tech
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8C4BFF?logoColor=white)
-![Vanilla CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=white)
 ![TMDB API](https://img.shields.io/badge/TMDB-01D277?logoColor=white)
 
 ---
 
-## 🧠 What I’m Learning Right Now
-- Writing clean, modular Express routes
-- Making my CSS layouts look as good as they work
-- Git workflow improvements (hello PowerShell functions 👋)
-
----
-
-💡 **Fun fact:** I’m not a professional developer — I just code for the joy of building things that make life easier (and a bit cooler).
-
+💡 Not a professional developer — just building stuff I think is cool.
