@@ -6,12 +6,12 @@ Right now, I’m building **MovieReleaseTracker** 🎬 — an app to follow upco
 ---
 
 ## 🎥 MovieReleaseTracker
-<p align="center">
+<div style="background-color:#121212; padding:15px; border-radius:12px; display:inline-block;">
   <a href="https://moviereleasetrackerv2.onrender.com/">
-    <img src="./screenshot.gif" alt="MovieReleaseTracker Demo" width="600" 
-         style="border-radius: 12px; box-shadow: 0 0 15px 5px #8b5cf6;" />
+    <img src="./screenshot.gif" alt="MovieReleaseTracker Demo" width="600" style="border-radius: 10px;" />
   </a>
-</p>
+</div>
+
 
 
 - **Stack:** Node.js, Express, EJS, Vanilla CSS, Airtable, TMDB API, Brevo  
