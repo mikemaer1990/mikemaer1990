@@ -6,7 +6,7 @@ Right now, I’m building **MovieReleaseTracker** 🎬 — an app to follow upco
 ---
 
 ## 🎥 MovieReleaseTracker
-[![MovieReleaseTracker Screenshot](./screenshot.png)](https://moviereleasetrackerv2.onrender.com/)
+[![MovieReleaseTracker Screenshot](./screenshot.gif)](https://moviereleasetrackerv2.onrender.com/)
 
 - **Stack:** Node.js, Express, EJS, Vanilla CSS, Airtable, TMDB API, Brevo  
 - **Features:**
