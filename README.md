@@ -6,7 +6,7 @@ Right now, I’m building **MovieReleaseTracker** 🎬 — an app to follow upco
 ---
 
 ## 🎥 MovieReleaseTracker
-<div align="center" style="background-color:#121212; padding:10px; display:inline-block;">
+<div align="left" style="background-color:#121212; padding:10px; display:inline-block;">
   <a href="https://moviereleasetrackerv2.onrender.com/">
     <img src="./screenshot.gif" alt="MovieReleaseTracker Demo" width="600" />
   </a>
