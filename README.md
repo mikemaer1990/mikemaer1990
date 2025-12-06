@@ -1,4 +1,4 @@
-  # Hey there 👋
+ # Hey there 👋
 
   I'm Mike — a hobbyist developer who codes for fun and loves learning new things.
   Right now, I'm building **MovieReleaseTracker** 🎬 — an app to follow upcoming movies and get notified when they hit theaters or streaming.
@@ -27,11 +27,6 @@
     - Floating label inputs (Stripe/Figma style)
     - Multiple movie card design variants
     - Fully responsive mobile-first design
-
-  ---
-
-  ## 📌 Pinned Repo
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mikemaer1990&repo=MovieReleaseTrackerV3&theme=radical)](https://github.com/mikemaer1990/MovieReleaseTrackerV3)
 
   ---
 
