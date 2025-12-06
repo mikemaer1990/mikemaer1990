@@ -8,7 +8,7 @@
   ## 🎥 MovieReleaseTracker V3
   <div align="left" style="background-color:#121212; padding:10px; display:inline-block;">
     <a href="https://moviereleasetracker.vercel.app/">
-      <img src="./screenshot.gif" alt="MovieReleaseTracker Demo" width="600" />
+      <img src="./demo.gif" alt="MovieReleaseTracker Demo" width="600" />
     </a>
   </div>
 
